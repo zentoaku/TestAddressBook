@@ -1,0 +1,16 @@
+{
+  "name": "TestAddressBook",
+  "description": "For Volvo recruitment process",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zentoaku/TestAddressBook",
+  "license": "",
+  "dependencies": {
+    "angular": "~1.4.9",
+    "angular-mocks": "~1.4.9",
+    "angular-route": "~1.4.9",
+    "jquery": "2.2.0",
+    "bootstrap": "~3.3.6",
+    "restangular": "~1.5.1",
+    "ngstorage": "~0.3.10"
+  }
+}
