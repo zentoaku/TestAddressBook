@@ -6,7 +6,6 @@
   "license": "",
   "dependencies": {
     "angular": "~1.4.9",
-    "angular-mocks": "~1.4.9",
     "angular-route": "~1.4.9",
     "angular-messages": "~1.4.9",
     "jquery": "2.2.0",
